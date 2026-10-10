@@ -1,2 +1,6 @@
 # Demo-Apna-College
-My First Repo 
+My First Repo
+ 
+(Chandan Kumar);
+Alpha....Army
+
